@@ -1,7 +1,6 @@
 # st2195_assignment_1
 
 ## Practice Assignment 01
-(___________________________)
 
 _DISCLAIMER : This is my first time doing this so please excuse my mistakes_
 
@@ -14,5 +13,6 @@ _DISCLAIMER : This is my first time doing this so please excuse my mistakes_
 Click on the link below to be directed to my repository
 <https://github.com/imdashit/st2195_assignment_1>
 
-!(https://media.istockphoto.com/vectors/the-end-handwrite-title-on-red-round-bacground-old-movie-ending-vector-id1153678999?k=20&m=1153678999&s=612x612&w=0&h=EiXakFEt0fM00K1RG0jx51ixreDRxpjYsnENE225fb0=)
+![The end](the end.jpg)
+
 
