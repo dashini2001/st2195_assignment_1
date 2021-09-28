@@ -1,6 +1,6 @@
 # st2195_assignment_1
 
-## Practice Assignment 01
+**Practice Assignment 01**
 
 _DISCLAIMER : This is my first time doing this so please excuse my mistakes_
 
@@ -11,8 +11,9 @@ _DISCLAIMER : This is my first time doing this so please excuse my mistakes_
 5. Generate HTML files of the R markdown file and Jupyter notebook and place them in their respective folders.
 
 Click on the link below to be directed to my repository
+
 <https://github.com/imdashit/st2195_assignment_1>
 
-![The end](the end.jpg)
+![the end](https://user-images.githubusercontent.com/91402100/135133784-a1324597-a719-4449-bb7a-7fbd77d58d97.jpg)
 
 
